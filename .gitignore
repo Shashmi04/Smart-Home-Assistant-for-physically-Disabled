@@ -1,0 +1,24 @@
+# Ignore model folder
+model/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore large ML files
+*.mdl
+*.mat
+*.ie
+*.dubm
+*.h5
+*.tflite
+*.pt
+*.model
+
+# OS files
+.DS_Store
+Thumbs.db
